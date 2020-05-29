@@ -57,8 +57,6 @@ SOFTWARE. [MIT License](https://choosealicense.com/licenses/mit/#)
 
 ---
 
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
 ![MITlicense](https://img.shields.io/badge/license-MIT-green)
